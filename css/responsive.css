@@ -29,6 +29,6 @@
   }
   
   col-3 p {
-    colum
+    column-count: 2;
   }
 }
