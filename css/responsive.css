@@ -84,6 +84,6 @@
   }
 
   #logo h2{
-    visibility: hidden;
+    display: none;
   }
 }
