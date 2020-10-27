@@ -69,9 +69,7 @@
   #navbar nav a.menu-icon {
     display: inline-block;
     float: right;
-    font-size: 1.5em;
-    padding: 10px 20px;
-    width: auto;
+    
     
   }
   
@@ -86,5 +84,4 @@
   #logo h2{
     display: none;
   }
-
 }
